@@ -14,12 +14,6 @@
 * **`🛠️Simplified DIY:`**
     Transform algae bioreactor construction into a DIY adventure. You don't need to be a tech guru; follow our user-friendly guide, and you'll be on your way to having your sustainable algae cultivation system up and running in no time.
 
-# 📜 Table of Contents
-1. [Project Objectives](#project-objectives)
-2. [Getting Started](#getting-started)
-3. [Resources](#resources)
-4. [Open Source Contribution](#open-source-contribution)
-
 # 🎯 Project Objectives
 * **`💡Optimal Efficiency:`**
     Project Blue Green is actively working to create the world's most advanced yet straightforward algae bioreactor design. Through AI and ML algorithms, we're fine-tuning the process for maximum efficiency, making sustainable practices accessible to all.
@@ -33,11 +27,11 @@
 * Contribute, share, and let's collaborate to make Project Blue Green a driving force for sustainable practices worldwide.
 * Join Project Blue Green, and be a part of shaping the movement towards a more sustainable and eco-friendly future! (**Note: This project is currently under active development and is not yet complete.**)
 
-# 🔗 Resources
+# 📜 Resources
 * Check [**AI ML integration on Arduino Nano 33 BLE Sense Board**](https://github.com/ProjectBlueGreen/project_blue_green_software/)
 
 # ✨ Open Source Contribution
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**. See the [open issues](https://github.com/ProjectBlueGreen/Project_blue_green_bioreactor/issues) for a list of proposed features (and known issues).
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **extremely appreciated**. Check open issues in the repository for a list of proposed features (and known issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
