@@ -2,6 +2,14 @@
     <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f9a0.gif" width="270">
     <h1 align="center">Project Blue Green: An Open Source Algae Bioreactor</h1>
     <p align="center">Welcome to Project Blue Green, this open-source repository is your gateway to participating in the ongoing development of an <strong>efficient algae bioreactor</strong>, combining state-of-the-art technology with a DIY approach. Dive into the world of AI, ML, and IoT to cultivate algae effortlessly and contribute to a greener future.</p>
+</p>
+    </br>
+<p align="center">
+  
+  <a href="https://github.com/ProjectBlueGreen/followers">
+    <img src="https://img.shields.io/github/followers/ProjectBlueGreen">
+  </a>
+    </br>
     </br>
 </p>
 
